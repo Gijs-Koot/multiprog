@@ -1,0 +1,3 @@
+git+ssh://git@bitbucket.org/OctoOffice/woco-core.git@v1.3#egg_name=woco_core
+celery[sqs]
+requests
